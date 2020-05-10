@@ -1,0 +1,17 @@
+uuid: 47472613-64b9-47d4-84a6-5c19fc2f3f37
+langcode: en
+status: true
+dependencies: {  }
+id: local_multisite1
+label: 'local multisite1'
+description: 'local multisite1'
+folder: config/sites/default-split
+module:
+  dblog: 0
+theme: {  }
+blacklist:
+  - system.site
+graylist: {  }
+graylist_dependents: true
+graylist_skip_equal: true
+weight: 0
